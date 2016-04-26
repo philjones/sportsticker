@@ -420,7 +420,7 @@
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     #st-wrapper {
-        height: 75px;
+        height: 45px;
     }
     #st-ticker-intro > ul.inline > li {
         height: 40px;
